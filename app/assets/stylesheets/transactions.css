@@ -98,6 +98,8 @@ html {
   color: #666666;
 }
 
-.transaction_data--type {
+.transaction_data--type,
+.transaction_data--negative-amount,
+.transaction_data--zero-balance {
   font-weight: bold;
 }
